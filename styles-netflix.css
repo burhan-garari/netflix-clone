@@ -175,7 +175,7 @@ details {
 
 footer {
   color: gray;
-  padding-block: 1.25em;
+  padding-block: 3em;
   margin-inline: 1em;
 }
 
@@ -201,6 +201,7 @@ footer > section > a {
 
   #description > h1 {
     font-size: 3em;
+    text-align: center;
   }
 
   #description > p {
